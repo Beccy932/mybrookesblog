@@ -4,7 +4,7 @@ header_text: Typblography
 footer_text: Copyright 2020 Rebecca Fish
 header_feature_image: ../uploads/pages.jpg
 bannerheight: 20vmax
-logo: /uploads/logo.jpg
+logo: ../uploads/blog.jpg
 favicon: /uploads/favicon.ico
 gridlayout: false
 fixednavbar: false
