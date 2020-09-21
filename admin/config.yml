@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: Beccy392/mybrookesblog# Path to your GitHub repository
+  repo: Beccy932/mybrookesblog # Path to your GitHub repository
   branch: master # Branch to update (master by default)
   site_domain: typblography.netlify.app #Your site on netlify
   use_graphql: true
