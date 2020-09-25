@@ -2,7 +2,7 @@
 layout: post
 title: How to transform a business....
 date: 2020-09-25T13:50:24.237Z
-header_feature_image: ../uploads/20190805183813-gettyimages-1132167159-crop.jpeg
+header_feature_image: ../uploads/how-to-know-when-rebranding-is-right-ppu.png
 comments: true
 ---
 Due to the higher availability of design software it is much easier for businesses and companies to design their logos and marketing images. Because of the importance of a brand, businesses have to ensure that their logos are easy to understand and recognise. The coherence of these logos and brands can depend on the typography chosen.
