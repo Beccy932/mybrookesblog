@@ -6,6 +6,6 @@ header_feature_image: ../uploads/green-nature-science-google-classroom-header.pn
 bannerheight: 20vmax
 logo: ../uploads/blog.jpg
 favicon: /uploads/favicon.ico
-gridlayout: false
+gridlayout: true
 fixednavbar: true
 upzoom: true
