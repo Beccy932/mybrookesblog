@@ -37,7 +37,7 @@ Designed by Matthew Carter, these fonts have been used for Time, Washington Post
 
 ![](../uploads/screen-shot-2020-09-27-at-16.10.11.png "Verdana used for Microsoft")
 
-The use of Georgia is seen in the articles of The New York Times and Verdana used by Microsoft. Due to the high success and popularity of these two businesses services, these two fonts are now linked to professionalism.
+The use of Georgia is seen in the articles of The New York Times and Verdana used by Microsoft. Due to the high success and popularity of these two businesses services, these two fonts can now be linked to professionalism.
 
 ## Helvetica
 
@@ -49,8 +49,9 @@ These businesses all provide completely different services and products, yet all
 
 ![](../uploads/helvetica-logo-collage1-2.jpg "Helvetica Font examples")
 
-## \
-Times New Roman
+
+
+## Times New Roman
 
 ![](../uploads/1200px-times_new_roman-sample.svg.png "Times New Roman Font")
 
