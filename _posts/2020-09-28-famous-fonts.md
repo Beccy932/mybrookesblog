@@ -49,8 +49,6 @@ These businesses all provide completely different services and products, yet all
 
 ![](../uploads/helvetica-logo-collage1-2.jpg "Helvetica Font examples")
 
-
-
 ## Times New Roman
 
 ![](../uploads/1200px-times_new_roman-sample.svg.png "Times New Roman Font")
