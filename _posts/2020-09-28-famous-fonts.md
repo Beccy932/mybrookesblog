@@ -6,8 +6,6 @@ header_feature_image: ../uploads/amador-loureiro-bvynlchwqzs-unsplash.jpg
 caption: by Amador Loureiro
 comments: true
 ---
-## Famous Fonts
-
 Without realising, whatever you read, wherever you are, every sign, menu, number plate and newspaper has a font type. These fonts are most likely being used in more than one form and have been around for decades. But who designed them and why?
 
 Firstly we must distinguish between what is meant between a ‘font’ and a ‘typeface’ as there is an air of confusion as they are often used interchangeably.
