@@ -51,3 +51,5 @@ Characteristics of Serif typeface
 Both of the posters for The Greatest Showman and Titanic have serif fonts which helps to communicate their setting in the past, magnificence and romantic elements. ‘The Greatest’ font was designed specially for The Greatest Showman film.
 
 ![](../uploads/27_728.jpg "The Greatest Showman Poster")
+
+![](../uploads/c6f1e7afaf50b8fc9a86975ffe1d1cb8.jpg "Titanic Poster")
