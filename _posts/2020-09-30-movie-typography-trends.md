@@ -94,3 +94,35 @@ Patents are often added to these fonts too so the franchise can own the typeface
 ##### Comedy
 
 Commonly within comedy films the titles are displayed in Arial, Helvetica, Gotham and Futura. It is typically red against a white background making it simplistic but subconsciously recognisable to audiences that it is a comedy. Posters for American Pie and Ace Ventura are prime examples of this.
+
+![](../uploads/american-pie-poster.jpg "American Pie Poster")
+
+![](../uploads/s-l300.jpg "Ace Ventura Poster")
+
+##### Sci-Fi
+
+Sci-Fi films could be considered the most easily recognisable typeface on posters. There is often a fluorescent glowing effect around sans-serif font resembling lettering that a futuristic computer may produce. Serifs would suggest a typewriter or handwritten effect, associating with romantic films. 3D elements are also common to highlight the technological aspect of the films.
+
+![](../uploads/fa80a26b24c87772cd96c4d38cfe6a07.jpg "Ready Player One Poster")
+
+![](../uploads/mv5bmjazmzi5otgzml5bml5banbnxkftztgwmtu5mtawmde-._v1_.jpg "Ender's Game Poster")
+
+##### Action
+
+Similarly to sci-fi, sans-serif and squared typefaces are common. Eurostile and Bank Gothic are popular fonts as well as textures such as shining metals or stone. The all caps and amount of space being used encompasses the action theme and masculinity of the, most likely, male hero. Superhero films are also prime examples of this.
+
+![](../uploads/91ejl7sdavl._ac_sl1500_.jpg "Gladiator Poster")
+
+![](../uploads/the_amazing_spider-man_theatrical_poster.jpeg "The Amazing Spider-Man Poster")
+
+##### Horror
+
+Serifs within horror movie posters are extremely common, especially the font Trajan. The thin edges help create an eerie feeling. However, to add another element of fear, the typography is usually in dark colours such as black and red. Shadows are additionally added to create forbidding tones.
+
+![](../uploads/sinister-movie-poster.jpeg "Sinster Poster")
+
+![](../uploads/220px-a_nightmare_on_elm_street_2010_poster.jpg "Nightmare on Elm Street Poster")
+
+
+
+One final element, for the majority of movie posters, across every genre and typeface, all the letters are capitalised. As well as competing for space in front of the more distracting image, the title is arguably the most crucial element so must gain attention too. Did you notice?
