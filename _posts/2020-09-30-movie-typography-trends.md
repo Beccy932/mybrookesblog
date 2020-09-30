@@ -53,3 +53,44 @@ Both of the posters for The Greatest Showman and Titanic have serif fonts which 
 ![](../uploads/27_728.jpg "The Greatest Showman Poster")
 
 ![](../uploads/c6f1e7afaf50b8fc9a86975ffe1d1cb8.jpg "Titanic Poster")
+
+###### Script
+
+Characteristics:
+
+* Cursive
+* Handwritten appearance - calligraphy
+* Traditional
+* Elegant
+* Possible genres: romance, biography, fantasy
+
+Although they have similar characteristics, the typography for LadyBird and Loving Vincent are very different. The Amador font used for LadyBird is similar to a printed newspaper title, whilst Loving Vincent is a much more handwritten style. However, both films follow the lives of their titled characters showing how this font helps a poster become more personalised helping the audience to understand genre.
+
+![](../uploads/32_677.jpg "Lady Bird Poster")
+
+![](../uploads/mv5bmtu3nje2njgwn15bml5banbnxkftztgwndyzmzewmzi-._v1_.jpg "Loving Vincent Poster")
+
+###### Descriptive or Decorative
+
+Characteristics:
+
+* Graphic elements
+* Individuality
+* Unique and creative
+* Possible genres: sci-fi and fantasy
+
+Because of their unique styles they are rememberable to audiences. Although they belong in the same typeface group, many decorative typefaces are completely parallel from one another. Often typefaces are made specifically for movies such as the ‘Planet of the Apes’ font being used for the War for the Planet of the Apes franchise.
+
+![](../uploads/mv5bndnmytqzmdetmmy0ms00otnjltk4mjitmdzhmzkzogi3mza0xkeyxkfqcgdeqxvynjk5nda3otk-._v1_.jpg "The War for the Planet of the Apes")
+
+Patents are often added to these fonts too so the franchise can own the typeface so any future media is instantly associated with a certain film. Two of the most famous examples of this is Harry Potter and Star Wars.
+
+![](../uploads/fp2512-harry-potter-teaser.jpg "Harry Potter Poster")
+
+![](../uploads/the-last-jedi-theatrical-blog.jpg "Star Wars Poster")
+
+## Genres
+
+##### Comedy
+
+Commonly within comedy films the titles are displayed in Arial, Helvetica, Gotham and Futura. It is typically red against a white background making it simplistic but subconsciously recognisable to audiences that it is a comedy. Posters for American Pie and Ace Ventura are prime examples of this.
