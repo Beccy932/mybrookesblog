@@ -11,7 +11,7 @@ This article will cover some of these popular choices and typographic styles and
 
 ## Technical Typefaces
 
-###### Kerning and Line Weight
+### Kerning and Line Weight
 
 Firstly, the kerning, which is the adjustment between the letters. Usually a larger space between the letters equals a more dramatic effect as each letter is seen as important as they have more room on the poster. Character names or locations are often displayed like this.
 
@@ -21,7 +21,7 @@ The line weight can also alter the appearance of the typeface as bold fonts can 
 
 ![](../uploads/s3-bourne_identity_ver2-default-503.jpg "Bourne Identity Poster")
 
-###### Sans Serif
+### Sans Serif
 
 Characteristics
 
@@ -38,7 +38,7 @@ Because of sans serif’s simplicity it can be interrupted in different ways, th
 
 ![](../uploads/best-worst-movie-posters-jane-eyre-66264.jpg "Jane Eyre Poster")
 
-###### Serif
+### Serif
 
 Characteristics of Serif typeface
 
@@ -54,7 +54,7 @@ Both of the posters for The Greatest Showman and Titanic have serif fonts which 
 
 ![](../uploads/c6f1e7afaf50b8fc9a86975ffe1d1cb8.jpg "Titanic Poster")
 
-###### Script
+### Script
 
 Characteristics:
 
@@ -70,7 +70,7 @@ Although they have similar characteristics, the typography for LadyBird and Lovi
 
 ![](../uploads/mv5bmtu3nje2njgwn15bml5banbnxkftztgwndyzmzewmzi-._v1_.jpg "Loving Vincent Poster")
 
-###### Descriptive or Decorative
+### Descriptive or Decorative
 
 Characteristics:
 
@@ -91,7 +91,7 @@ Patents are often added to these fonts too so the franchise can own the typeface
 
 ## Genres
 
-##### Comedy
+### Comedy
 
 Commonly within comedy films the titles are displayed in Arial, Helvetica, Gotham and Futura. It is typically red against a white background making it simplistic but subconsciously recognisable to audiences that it is a comedy. Posters for American Pie and Ace Ventura are prime examples of this.
 
@@ -99,7 +99,7 @@ Commonly within comedy films the titles are displayed in Arial, Helvetica, Gotha
 
 ![](../uploads/_57.jpg "Ace Ventura Poster")
 
-##### Sci-Fi
+### Sci-Fi
 
 Sci-Fi films could be considered the most easily recognisable typeface on posters. There is often a fluorescent glowing effect around sans-serif font resembling lettering that a futuristic computer may produce. Serifs would suggest a typewriter or handwritten effect, associating with romantic films. 3D elements are also common to highlight the technological aspect of the films.
 
@@ -107,7 +107,7 @@ Sci-Fi films could be considered the most easily recognisable typeface on poster
 
 ![](../uploads/mv5bmjazmzi5otgzml5bml5banbnxkftztgwmtu5mtawmde-._v1_.jpg "Ender's Game Poster")
 
-##### Action
+### Action
 
 Similarly to sci-fi, sans-serif and squared typefaces are common. Eurostile and Bank Gothic are popular fonts as well as textures such as shining metals or stone. The all caps and amount of space being used encompasses the action theme and masculinity of the, most likely, male hero. Superhero films are also prime examples of this.
 
@@ -115,7 +115,7 @@ Similarly to sci-fi, sans-serif and squared typefaces are common. Eurostile and 
 
 ![](../uploads/932370320_o.jpg "The Amazing Spider-Man Poster")
 
-##### Horror
+### Horror
 
 Serifs within horror movie posters are extremely common, especially the font Trajan. The thin edges help create an eerie feeling. However, to add another element of fear, the typography is usually in dark colours such as black and red. Shadows are additionally added to create forbidding tones.
 
