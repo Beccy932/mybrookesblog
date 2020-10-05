@@ -7,8 +7,6 @@ comments: true
 ---
 The typography used in books is dependant on an abundance of factors such as budget, genre and audience. But what are the key differences between books aimed for children versus adults?
 
-
-
 ### Adults and Fiction
 
 Usually with a smaller the print size, more characters can fit onto one page, therefore less pages need to be printed, reducing the cost. The minimum print size for readability is 9pt so anything smaller will be difficult for audiences to decipher but would increase profit margins. Larger font sizes would allow those with more limited sight to read more easily but be more costly. The most common font size within books is 11pt so there is a balance between readability and page numbers. This typography is clearly more suitable for older audiences as large paragraphs of text need a reader with a higher attention span and can focus on smaller sizes.
@@ -31,12 +29,14 @@ Lauren Child, the author of the Charlie and Lola and Clarence Bean series, has a
 
 If books for adult fiction used the same typography as Lauren Child, it would be very disorientating and harder to distinguish individual words as they would morph together or overlap if the size was reduced. It would be difficult to take an adult novel seriously with a mixture of typefaces.
 
+The larger typeface size also helps to increase the number of pages used. If the text was displayed to fill the page it would be incredibly monotonous for its audience, therefore very unsuccessful. Although more expensive, more pages have extra illustrations which the children learn more through at that age. 
+
+
+
 ### Young Adults and Non-Fiction
 
 For textbooks, I believe that sans-serif typefaces are much more suitable as it has a much cleaner appearance. A more professional and expert typeface  is critical when reading non-fiction, as it encourages the reader to believe what information they’re absorbing. Although serif font is older and more traditional I think it ruins the authenticity of the facts as it usually is used for fiction. These san-serif typefaces used in large blocks of text is very unappealing to young children, despite the fact that they would struggle to understand all of the words, the style of the typography is also not suited to them, instead older school children in their teens would be able to appreciate the executive and factual genre of the book as they know it is not a story.
 
 ![](../uploads/growing-cities.png "Geography Textbook ")
-
-
 
 Next time you read a novel or a textbook, image its parallel typography. Would it look better in sans-serif or script? Would it change the emotions you relate to it?
