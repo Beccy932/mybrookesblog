@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to transform a business....
+title: How to transform a business
 date: 2020-09-25T13:50:24.237Z
 header_feature_image: ../uploads/how-to-know-when-rebranding-is-right-ppu.png
 comments: true
