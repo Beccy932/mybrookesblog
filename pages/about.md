@@ -10,4 +10,4 @@ tags: null
 description: null
 show: true
 ---
-My name is Rebecca Fish, I am a student at Oxford Brookes Univeristy studying Media, Journalism and Publishing. This website is part of my module focusing on typography.
+My name is Rebecca Fish, I am a student at Oxford Brookes Univeristy studying Media, Journalism and Publishing. This website is part of my module focusing on typography. I hope to give some information on all things typefaces and fonts.
