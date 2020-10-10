@@ -5,6 +5,8 @@ date: 2020-10-10T13:54:56.359Z
 header_feature_image: ../uploads/321649.png
 comments: true
 ---
+Why do different restaurants need different type faces to show what type of food they offer?
+
 ## Logos
 
 Fast food restaurants such as McDonalds and Burger King’s typography and branding is extremely opposite to more high end dining restaurants such as Allegra and Céleste in London. These examples help to embody the stereotypical typography of different forms of restaurant. Firstly, the fast food chains and more distinguishable by their sans-serif and bold font, this is part of the strategy that allows customers to see them on a busy high-street.
@@ -13,7 +15,7 @@ Fast food restaurants such as McDonalds and Burger King’s typography and brand
 
 In addition to this, the colour choice of the typeface is a contrast to the background colour, another attention grabbing technique. As you can see from the multiple examples below, red and yellow are the most popular choices, especially for American chains, however as long as the colours contrast each other, they remain eye-catching and strong. The bright colours however do create more child-like imagery and less professionalism, though the customers are aware that these restaurants do not produce Michelin star worthy food.
 
-![](../uploads/2f50345a26f614fbdd95afe7506c2193.jpg "Fast Food Logo Examples")
+![](../uploads/5474ea55f29272a0d1667ad66661e014.jpg "Fast Food Logo Examples")
 
 In contrast to this, more luxury dining venues do not need as bold colours or fonts as customers preplan these meals, they’re far less impulsive than fast food companies. Due to this, their colour tones are much less vibrant, gentle browns and white and black contrasts help elevate their brand of sophistication. Their typefaces are also more often serifed or scripted to add the feeling of elegance which is vital for adding value to the setting. The calligraphy style used by Céleste and Allegra helps add a personal yet traditional tone.
 
@@ -44,8 +46,6 @@ Key elements of fast food branding:
 * Use of pictures
 * Increased readability
 * Bigger font sizes
-
-
 
 Key elements of fancy dining branding:
 
