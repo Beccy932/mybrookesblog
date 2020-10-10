@@ -5,6 +5,8 @@ date: 2020-10-10T13:54:56.359Z
 header_feature_image: ../uploads/321649.png
 comments: true
 ---
+Why do different restaurants need different type faces to show what type of food they offer?
+
 ## Logos
 
 Fast food restaurants such as McDonalds and Burger King’s typography and branding is extremely opposite to more high end dining restaurants such as Allegra and Céleste in London. These examples help to embody the stereotypical typography of different forms of restaurant. Firstly, the fast food chains and more distinguishable by their sans-serif and bold font, this is part of the strategy that allows customers to see them on a busy high-street.
