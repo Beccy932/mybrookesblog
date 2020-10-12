@@ -26,6 +26,6 @@ My logo again uses the green and white tones to show the unitiy with the banner.
 
 #### Favicon
 
-My favicon is a simplified version if the logo. Because a favicon is so small and much harder to see, more definitive shapes are more useful. It would be difficult to read the word 'typblography' and dicipher that the image was a small laptop therefore I just enlarged the letter T in the same "Belgrano' typeface and kept the drawn circle which represents the script, handwritten typefaces and links the two icons together. 
+My favicon is a simplified version of the logo. Because a favicon is so small and much harder to see, more definitive shapes are more useful. It would be difficult to read the word 'typblography' and dicipher that the image was a small laptop therefore I just enlarged the letter T in the same "Belgrano' typeface in the logo and kept the drawn circle which represents the script, handwritten typefaces, linking the two icons together. 
 
 ![Typblography Favicon](../uploads/apple-touch-icon.png "Typblography Favicon")
