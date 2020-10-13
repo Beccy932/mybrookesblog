@@ -33,7 +33,7 @@ The larger typeface size also helps to increase the number of pages used. If the
 
 ### Young Adults and Non-Fiction
 
-For textbooks, I believe that sans-serif typefaces are much more suitable as it has a much cleaner appearance. A more professional and expert typeface  is critical when reading non-fiction, as it encourages the reader to believe what information they’re absorbing. Although serif font is older and more traditional I think it ruins the authenticity of the facts as it usually is catered for fiction. These san-serif typefaces used in large blocks of text is very unappealing to young children, despite the fact that they would struggle to understand all of the words, the style of the typography is also not suited to them, instead older school children in their teens would be able to appreciate the executive and factual genre of the book as they know it is not a story.
+For textbooks, I believe that sans-serif typefaces are much more suitable as it has a much cleaner appearance. A more professional and expert typeface  is critical when reading non-fiction, as it encourages the reader to believe what information they’re absorbing. Although serif font is older and more traditional I think it ruins the authenticity of the facts as it usually is catered for fiction. These san-serif typefaces used in large blocks of text is very unappealing to very young children, despite the fact that they would struggle to understand all of the words, the style of the typography is also not suited to them, instead older school children (aged 12+) would be able to appreciate the executive and factual genre of the book as they know it is not a story.
 
 ![](../uploads/growing-cities.png "Geography Textbook ")
 
