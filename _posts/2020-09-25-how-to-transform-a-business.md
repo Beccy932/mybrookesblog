@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to transform a business
+title: How to Transform a Business
 date: 2020-09-25T13:50:24.237Z
 header_feature_image: ../uploads/how-to-know-when-rebranding-is-right-ppu.png
 comments: true
@@ -9,19 +9,19 @@ Due to the higher availability of design software it is much easier for business
 
 ### Why do businesses rebrand?
 
-A bad logo can affect the reputation of some businesses as they slowly start to become outdated and unrecognisable to some of their audience, therefore rebranding could help save a business's income and popularity. Logos and typography that looks unprofessional and childish can be perceived as unreliable therefore simple font choices can have a heavy impact on the number of customers a business receives.
+A bad logo can affect the reputation of some businesses as they slowly start to become outdated and unrecognisable to some of their audience, therefore rebranding could restore a business's income and popularity. Logos and typography that appears unprofessional and childish can be perceived as unreliable therefore simple typeface choices can have a heavy impact on the number of customers a business receives.
 
 ### Font Styles
 
-A common way businesses redesign to appear more modern and professional is by deciding to change their font styles.
+A common way businesses redesign to appear more modern and professional is by deciding to change their typefaces.
 
 ![](../uploads/logos-resized2.jpg "Examples of Rebranding ")
 
-The four brands above are perfect examples of this. All serifs and calligraphy style have been replaced with san-serif and bold fonts making them appear more authoritative and professional compared to the previous styles. Their colour palettes remained similar, besides airbnb, so they are still recognisable to their audience and preserve their personality. This strategy is clearly effective as high end brands associated with luxury acted similarly.
+The four brands above are perfect examples of this. All the original serif and calligraphy styles have been replaced with san-serif and bold fonts eliciting more authoritative and professional emotions compared to the previous styles. Their colour palettes remained similar however, besides airbnb, so they are still recognisable to their audience and preserve their personality. This strategy is clearly effective as high end brands associated with luxury acted similarly.
 
 ![](../uploads/sansmania.jpg "Luxury Brand Redesigns")
 
-The similarities between these alterations are clear as each of these brands typography has become much sleeker by making the lettering bold and in all capitals, creating a look of purpose. With the lettering being the same height and in all capitals it is easier to read, comparing to the original Yves Saint Laurent typography which could be conceived as more childish with its resemblance to handwriting.
+The similarities between these alterations are obvious as the typography has become much sleeker by making the font bold and capitalised, creating an appearance of purpose. With the lettering having the same  x-height and being capitalised it is easier to read, in contrast to the original Yves Saint Laurent typography which could be conceived as more childish with its resemblance to handwriting.
 
 Furthermore, Burberry originally used two different typography styles for the business name and location underneath, although giving the impression of sophistication with the calligraphy style, the two did not fit together. By using the same font for both it signifies that both elements are as important as each other and that they are coherent.
 
