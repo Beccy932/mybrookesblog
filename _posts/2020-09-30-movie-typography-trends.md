@@ -5,7 +5,7 @@ date: 2020-09-30T15:58:22.511Z
 header_feature_image: ../uploads/halloween-movies-1600459548.jpg
 comments: true
 ---
-In the movie industry, the advertisements seen on posters or the sides of buses all have particular typography which subconsciously coaxes you to watch the movie, or at least understand its genre. Depending on the theme of the movie, the font style and colours will have been altered to match.
+In the movie industry, the advertisements seen on posters or the sides of buses all have strategic typography which subconsciously coaxes you to watch the movie, or at least understand its genre. Depending on the theme of the movie, the typeface, font and colours will have been altered to match.
 
 This article will cover some of these popular choices and typographic styles and how they alter depending on the movie themes.
 
@@ -13,7 +13,7 @@ This article will cover some of these popular choices and typographic styles and
 
 ### Kerning and Line Weight
 
-Firstly, the kerning, which is the adjustment between the letters. Usually a larger space between the letters equals a more dramatic effect as each letter is seen as important as they have more room on the poster. Character names or locations are often displayed like this.
+Firstly, the kerning, which is the adjustment between the letters. Usually a larger space between the letters equals a more dramatic effect as each letter is emphasised as they have more room on the poster. Proper nouns such as character names or locations are often displayed like this.
 
 ![](../uploads/71nsvxfpstl._ac_sl1200_.jpg "Dunkirk Poster")
 
