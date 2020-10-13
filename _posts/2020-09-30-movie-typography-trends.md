@@ -17,7 +17,7 @@ Firstly, the kerning, which is the adjustment between the letters. Usually a lar
 
 ![](../uploads/71nsvxfpstl._ac_sl1200_.jpg "Dunkirk Poster")
 
-The line weight can also alter the appearance of the typeface as bold fonts can make the letter appear larger but be the same size as another letter next to it with a thinner weight. Certain words in bold are also seen as more important as more attention is brought towards them compared to the thinner text.
+The line weight can also alter the appearance of the typeface. Bold fonts can make the letter appear larger but be the same size as another letter next to it with a thinner weight. Certain words in bold are also seen as more important as more attention is brought towards them compared to the thinner text.
 
 ![](../uploads/s3-bourne_identity_ver2-default-503.jpg "Bourne Identity Poster")
 
@@ -48,7 +48,7 @@ Characteristics of Serif typeface
 * Weight contrasts between letters
 * Easier to distinguish genre: classic/documentary/drama/history?
 
-Both of the posters for The Greatest Showman and Titanic have serif fonts which helps to communicate their setting in the past, magnificence and romantic elements. ‘The Greatest’ font was designed specially for The Greatest Showman film.
+Both of the posters for The Greatest Showman and Titanic have serif fonts which helps to communicate their setting in the past, magnificence and romantic elements as serif fonts are more traditional. ‘The Greatest’ font was designed specially for The Greatest Showman film.
 
 ![](../uploads/27_728.jpg "The Greatest Showman Poster")
 
@@ -64,7 +64,7 @@ Characteristics:
 * Elegant
 * Possible genres: romance, biography, fantasy
 
-Although they have similar characteristics, the typography for LadyBird and Loving Vincent are very different. The Amador font used for LadyBird is similar to a printed newspaper title, whilst Loving Vincent is a much more handwritten style. However, both films follow the lives of their titled characters showing how this font helps a poster become more personalised helping the audience to understand genre.
+Although they have similar characteristics, the typography for LadyBird and Loving Vincent are very different. The Amador font used for LadyBird is similar to a printed newspaper title, whilst Loving Vincent is a much more handwritten style. However, both films follow the lives of their titled characters showing how these typefaces offers more personalisation, helping the audience to understand the biopic genre.
 
 ![](../uploads/32_677.jpg "Lady Bird Poster")
 
@@ -79,11 +79,11 @@ Characteristics:
 * Unique and creative
 * Possible genres: sci-fi and fantasy
 
-Because of their unique styles they are rememberable to audiences. Although they belong in the same typeface group, many decorative typefaces are completely parallel from one another. Often typefaces are made specifically for movies such as the ‘Planet of the Apes’ font being used for the War for the Planet of the Apes franchise.
+Because of their unique styles they are rememberable to audiences. Similarly to script typefaces, although they belong in the same typeface group, many decorative typefaces are completely parallel from one another. Often typefaces are made specifically for movies such as the ‘Planet of the Apes’ typeface being used for the War for the Planet of the Apes franchise.
 
 ![](../uploads/mv5bndnmytqzmdetmmy0ms00otnjltk4mjitmdzhmzkzogi3mza0xkeyxkfqcgdeqxvynjk5nda3otk-._v1_.jpg "The War for the Planet of the Apes")
 
-Patents are often added to these fonts too so the franchise can own the typeface so any future media is instantly associated with a certain film. Two of the most famous examples of this is Harry Potter and Star Wars.
+Patents are often added to these fonts too so the franchise can own the typeface for any future media which can be instantly associated with a certain film. Two of the most famous examples of this is Harry Potter and Star Wars.
 
 ![](../uploads/fp2512-harry-potter-teaser.jpg "Harry Potter Poster")
 
@@ -93,7 +93,7 @@ Patents are often added to these fonts too so the franchise can own the typeface
 
 ### Comedy
 
-Commonly within comedy films the titles are displayed in Arial, Helvetica, Gotham and Futura. It is typically red against a white background making it simplistic but subconsciously recognisable to audiences that it is a comedy. Posters for American Pie and Ace Ventura are prime examples of this.
+Commonly within comedy films the titles are displayed in Arial, Helvetica, Gotham and Futura typefaces. It is typically red against a white background making it contrasting yet simplistic, subconsciously recognisable to audiences that it is a comedy. Posters for American Pie and Ace Ventura are prime examples of this.
 
 ![](../uploads/c64a9829fa4638ff5de86330dd227e35_500x735.jpg "American Pie Poster")
 
@@ -101,7 +101,7 @@ Commonly within comedy films the titles are displayed in Arial, Helvetica, Gotha
 
 ### Sci-Fi
 
-Sci-Fi films could be considered the most easily recognisable typeface on posters. There is often a fluorescent glowing effect around sans-serif font resembling lettering that a futuristic computer may produce. Serifs would suggest a typewriter or handwritten effect, associating with romantic films. 3D elements are also common to highlight the technological aspect of the films.
+Sci-Fi films could be considered the most easily recognisable typeface on posters. There is often a fluorescent glowing effect around sans-serif font resembling lettering that a futuristic computer may produce. Serifs would suggest a typewriter or handwritten effect, which are often more associated with romantic films. 3D elements are also common to highlight the technological aspect of the films.
 
 ![](../uploads/fa80a26b24c87772cd96c4d38cfe6a07.jpg "Ready Player One Poster")
 
@@ -109,7 +109,7 @@ Sci-Fi films could be considered the most easily recognisable typeface on poster
 
 ### Action
 
-Similarly to sci-fi, sans-serif and squared typefaces are common. Eurostile and Bank Gothic are popular fonts as well as textures such as shining metals or stone. The all caps and amount of space being used encompasses the action theme and masculinity of the, most likely, male hero. Superhero films are also prime examples of this.
+Similarly to sci-fi, sans-serif and squared typefaces are common. Eurostile and Bank Gothic are popular fonts as well as using textures such as shining metals or stone. The capitalisation and large amount of space being used encompasses the action theme and masculinity of the (most likely) male hero. Superhero films are also prime examples of this.
 
 ![](../uploads/91ejl7sdavl._ac_sl1500_.jpg "Gladiator Poster")
 
@@ -117,7 +117,7 @@ Similarly to sci-fi, sans-serif and squared typefaces are common. Eurostile and 
 
 ### Horror
 
-Serifs within horror movie posters are extremely common, especially the font Trajan. The thin edges help create an eerie feeling. However, to add another element of fear, the typography is usually in dark colours such as black and red. Shadows are additionally added to create forbidding tones.
+Serifs within horror movie posters are extremely powerful, commonly in the typeface Trajan, with the thin edges helping create an eerie feeling. To add another element of fear, the typography is usually in dark colours such as black and red which are subconciously linked with darkness and blood. Shadows are additionally added to create forbidding tones.
 
 ![](../uploads/sinister-movie-poster.jpeg "Sinster Poster")
 
