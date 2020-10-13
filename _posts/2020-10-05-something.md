@@ -19,23 +19,21 @@ I believe that a fiction piece in a sans-serif font would appear more computeris
 
 ### Children and Fiction
 
-On the other hand, for children, who often begin to learn more visually, book pages are mostly illustrations with text dotted more sporadically on the edges. The font is also much bigger, an average between 16pt-24pt which allows them to read along with the adult they’re listening too. Fewer words also helps keeps their attention as there is less to focus on. The typeface is also usually serif, script or decorative as it looks more fantastical and personal to the character which appeals more to younger readers. A sans-serif font would seem more professional or ‘boring’ therefore losing the attention of the young reader.
+On the other hand, for children, who often begin to learn more visually, book pages are mostly illustrations with text dotted more sporadically on the edges. The font is also much larger, an average between 16pt-24pt which allows them to follow more easily with the adult they’re listening too. Fewer words also help keeps their attention as there is less to focus on. The typeface is also usually serif, script or decorative as it looks more fantastical and personal to the character which appeals more to younger readers. A sans-serif font would seem more professional or ‘boring’ to a young child therefore losing the attention of the young reader.
 
 ![](../uploads/51zsaiwqzal.jpg "When Sadness is at Your Door Page")
 
-Lauren Child, the author of the Charlie and Lola and Clarence Bean series, has a very personalised style of typography. There is a mixture of typeface styles, sizes, and use of capital letters. This style transforms the personalisation of the characters, making it more fun and visually pleasing for the children. The use of bold for particular words also varies helping to show they’re tone for the reader, in adult books italics is used to create emphasis.
+Lauren Child, the author of the Charlie and Lola and Clarence Bean series, has a very personalised style of typography. There is a mixture of typeface styles, sizes, and use of capital letters. This style transforms the personalisation of the characters, making it more fun and visually pleasing for the children, matching the illustrations. The use of bold for particular words also varies, helping to show their tone for the reader, in adult books italics is used to create emphasis.
 
 ![](../uploads/inside_page_of_i_m_really_ever_so_not_well_-_charlie_and_lola_book.jpg "Charlie and Lola Page")
 
-If books for adult fiction used the same typography as Lauren Child, it would be very disorientating and harder to distinguish individual words as they would morph together or overlap if the size was reduced. It would be difficult to take an adult novel seriously with a mixture of typefaces.
+If books for adult fiction used the same typography as Lauren Child, it would be very disorientating and harder to distinguish individual words as they would morph together or overlap if the size was reduced. It would be difficult to take an adult novel seriously with a mixture of typefaces and fonts for individual letters.
 
 The larger typeface size also helps to increase the number of pages used. If the text was displayed to fill the page it would be incredibly monotonous for its audience, therefore very unsuccessful. Although more expensive, more pages have extra illustrations which the children learn more through at that age. 
 
-
-
 ### Young Adults and Non-Fiction
 
-For textbooks, I believe that sans-serif typefaces are much more suitable as it has a much cleaner appearance. A more professional and expert typeface  is critical when reading non-fiction, as it encourages the reader to believe what information they’re absorbing. Although serif font is older and more traditional I think it ruins the authenticity of the facts as it usually is used for fiction. These san-serif typefaces used in large blocks of text is very unappealing to young children, despite the fact that they would struggle to understand all of the words, the style of the typography is also not suited to them, instead older school children in their teens would be able to appreciate the executive and factual genre of the book as they know it is not a story.
+For textbooks, I believe that sans-serif typefaces are much more suitable as it has a much cleaner appearance. A more professional and expert typeface  is critical when reading non-fiction, as it encourages the reader to believe what information they’re absorbing. Although serif font is older and more traditional I think it ruins the authenticity of the facts as it usually is catered for fiction. These san-serif typefaces used in large blocks of text is very unappealing to very young children, despite the fact that they would struggle to understand all of the words, the style of the typography is also not suited to them, instead older school children (aged 12+) would be able to appreciate the executive and factual genre of the book as they know it is not a story.
 
 ![](../uploads/growing-cities.png "Geography Textbook ")
 
