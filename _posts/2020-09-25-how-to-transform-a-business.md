@@ -29,11 +29,11 @@ Furthermore, Burberry originally used two opposing typography styles for the bus
 
 A brand that has been redesigned throughout the years is Pepsi. Although their colour palette has remained the same, consisting of red, white and blue, the colour of the typography has switched between them and the typeface continuously altered. Between 1898 and 1950 the typography was a red, calligraphy style, nevertheless, this design is incredibly similar to Coca-Cola, one of Pepsi’s largest competitors, therefore differentiation was needed for distinctiveness. 
 
-From 1950 the blue tones became incorporated into the brand and remains the colour used currently, making it an opposite to Coca-Cola. The blue has calmer connotations, compared to the more aggressive red of Coca-Cola, and matches the blue used in the circular logo to prove to audiences they are connected. The ‘e’ within the font has been personalised to have a small wave across the middle, as a reference to the previous logos with a wave down the centre of the circle.
+From 1950 the blue tones became incorporated into the brand and remains the colour used currently, making it an opposite to Coca-Cola. The blue has calmer connotations, compared to the more aggressive red of Coca-Cola, and matches the blue used in the circular logo, proving to audiences that they are connected. The ‘e’ within the font has been personalised to have a small wave across the middle, as a reference to the previous logos with a wave down the centre of the circle.
 
 ![](../uploads/pepsi-logos.jpg "Pepsi Rebrand Throughout the Years")
 
-In contrast to the match in colours in typography and logo, some businesses have decided to keep their text in black in contrast to their more colourful logos. An example of this is Instagram’s brand redesign in 2016, which transformed its colour palette completely from more reserved browns in a 3D camera to a more elaborate pink, purple and yellow 2D design.
+In contrast to the matching colours for typography and logo, some businesses have decided to keep their text in black to contrast to their more colourful logos. An example of this is Instagram’s surprising brand redesign in 2016, which transformed its colour palette completely. From its more reserved browns in a 3D camera, a purple to yellow 2D gradient design was used as a replacement.
 
 ![](../uploads/1-6x7vf59utycdwiltqhsnaq.jpeg "Instagram Logo Redesign")
 
