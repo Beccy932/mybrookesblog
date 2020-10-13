@@ -37,8 +37,8 @@ In contrast to the matching colours for typography and logo, some businesses hav
 
 ![](../uploads/1-6x7vf59utycdwiltqhsnaq.jpeg "Instagram Logo Redesign")
 
-Although the logo was completely modified, the typography has remained similar; the decorative handwritten style could references the personalised and creative nature of the platform and the types of uploads its users post. The transition from blue to black typography may have been used to reduce the friction between the logo and text as the logo is incredibly vibrant and intense so the typography balances this out by being black and reserved. The use of black also creates a sense of professionalism within the app as well as creativity, suggesting its success and popularity.
+Although the logo was completely modified, the typography has remained similar; the decorative handwritten style could reference the personalised and creative nature of the platform, and the upload type its users post. The conversion from blue to black typography may have been used to reduce the friction between the logo and text as the logo is incredibly vibrant so the typography balances this out by being black and reserved. The use of black also creates a sense of professionalism within the app as well as creativity, implying its success and popularity.
 
 ### Results of a Rebrand
 
-The importance of rebranding is vital when audiences are no longer attracted to the logo as the professionalism behind them is the cause of convincing people to use a companies products or services. The typography must balance with the imagery and colours in order to make them coherent.
+The importance of rebranding is vital when audiences are no longer attracted to the logo as the professionalism behind them is the cause of convincing people to use a companies products or services. The typography must balance with the imagery and colours in order to make them coherent and make them feel trustworthy to customers.
