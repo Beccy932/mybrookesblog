@@ -23,11 +23,13 @@ The four brands above are perfect examples of this. All the original serif and c
 
 The similarities between these alterations are obvious as the typography has become much sleeker by making the font bold and capitalised, creating an appearance of purpose. With the lettering having the same  x-height and being capitalised it is easier to read, in contrast to the original Yves Saint Laurent typography which could be conceived as more childish with its resemblance to handwriting.
 
-Furthermore, Burberry originally used two different typography styles for the business name and location underneath, although giving the impression of sophistication with the calligraphy style, the two did not fit together. By using the same font for both it signifies that both elements are as important as each other and that they are coherent.
+Furthermore, Burberry originally used two opposing typography styles for the business name and location underneath, although giving the impression of sophistication with the calligraphy style, the two did not compliment eachother. By using the same font for both it signifies that the elements are as important as each other and that they are coherent.
 
 ### Colours
 
-A brand that has been redesigned throughout the years is Pepsi. Although their colour palette has remained the same, consisting of red, white and blue, the colour of the typography has switched between them but which one is the most successful? Between 1898 and 1950 the typography was a red, calligraphy style however this design is incredibly similar to Coca-Cola, one of Pepsi’s largest competitors, therefore some differentiation was needed. From 1950 the blue tones began to be incorporated into the brand and is the current text colour, making it an opposite to Coca-Cola. The blue has more calmer connotations compared to the more aggressive red of Coca-Cola and matches the blue used in the circular logo to prove to audiences they are connected. The ‘e’ within the font has been personalised to have a small wave across the middle, as a reference to the previous logos with a wave down the centre of the circle.
+A brand that has been redesigned throughout the years is Pepsi. Although their colour palette has remained the same, consisting of red, white and blue, the colour of the typography has switched between them and the typeface continuously altered. Between 1898 and 1950 the typography was a red, calligraphy style, nevertheless, this design is incredibly similar to Coca-Cola, one of Pepsi’s largest competitors, therefore differentiation was needed for distinctiveness. 
+
+From 1950 the blue tones became incorporated into the brand and remains the colour used currently, making it an opposite to Coca-Cola. The blue has calmer connotations, compared to the more aggressive red of Coca-Cola, and matches the blue used in the circular logo to prove to audiences they are connected. The ‘e’ within the font has been personalised to have a small wave across the middle, as a reference to the previous logos with a wave down the centre of the circle.
 
 ![](../uploads/pepsi-logos.jpg "Pepsi Rebrand Throughout the Years")
 
