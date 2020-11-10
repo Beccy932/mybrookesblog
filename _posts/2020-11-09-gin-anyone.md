@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gin Anyone?
+title: Tipsy Text
 date: 2020-11-09T16:03:03.943Z
 header_feature_image: ../uploads/gin-index-1556824886.png
 comments: true
