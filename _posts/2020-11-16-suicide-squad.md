@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Suicide Squad
+title: Worst Heroes, Best Branding
 date: 2020-11-16T15:11:35.493Z
 header_feature_image: ../uploads/suicide_squad_wallpaper_1680x1050.jpg
 comments: true
@@ -13,8 +13,7 @@ The signature logo typeface was created specifically for the film. Bold and sans
 
 The members of the squad is what held promise for the film however the story line could not match. For social media, introductions of the members held a still frame after comic themed graphics, with decorative typefaces for exposition on their likes and abilities. 
 
-### \
-Character Introductions
+### Character Introductions
 
 <div class="video-box"><iframe width="560" height="315" src="https://www.youtube.com/embed/XXMrXyA3Yp0?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
