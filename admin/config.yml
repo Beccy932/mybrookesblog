@@ -8,7 +8,7 @@ backend:
 publish_mode: editorial_workflow
 show_preview_links: true
 display_url: https://typblography.netlify.app
-logo_url: https://typblography.netlify.app/uploads/face.jpg
+logo_url: https://typblography.netlify.app/uploads/1.jpg
 
 # Do NOT edit below this line
 
@@ -30,15 +30,71 @@ collections:
     preview_path: "{{year}}/{{month}}/{{day}}/{{title}}"
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
-      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Featured Image", name: "header_feature_image", widget: "image", required: false, hint: "This image will appear at the top of your post"}
-      - {label: "Caption", name: "caption", widget: "string", required: false}
-      - {label: "Comments", name: "comments", widget: "boolean", default: true, hint: "Only if you setup your Disqus account will this allow comments. If you don't want comments for this post then turn this off."}
-      - {label: "Body", name: "body", widget: "markdown", hint: "You can type straight into this field and use the toolbar to select styles. You can also use markdown directly when you switch this off. In markdown mode, you can also add HTML."}
-      - {label: "Tags", name: "tags", widget: "select", multiple: true, max: 5, options: ["Architecture", "Art", "Books", "Buildings", "Cinema", "Culture", "Design", "Education", "Fonts", "Graphics", "History", "Journalism", "Landscape", "Life", "Literature", "Media", "Music", "Nature", "Packaging", "Personal", "Photography", "Publishing", "Retail", "Science", "Signage", "Transport", "Travel", "TV", "Work"], required: false, hint: "By adding tags the posts can be listed together under that tag. You will need to enable the tags page (by turning on show on menu for the tags page."}
-
+      - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - {
+          label: "Featured Image",
+          name: "header_feature_image",
+          widget: "image",
+          required: false,
+          hint: "This image will appear at the top of your post",
+        }
+      - { label: "Caption", name: "caption", widget: "string", required: false }
+      - {
+          label: "Comments",
+          name: "comments",
+          widget: "boolean",
+          default: true,
+          hint: "Only if you setup your Disqus account will this allow comments. If you don't want comments for this post then turn this off.",
+        }
+      - {
+          label: "Body",
+          name: "body",
+          widget: "markdown",
+          hint: "You can type straight into this field and use the toolbar to select styles. You can also use markdown directly when you switch this off. In markdown mode, you can also add HTML.",
+        }
+      - {
+          label: "Tags",
+          name: "tags",
+          widget: "select",
+          multiple: true,
+          max: 5,
+          options:
+            [
+              "Architecture",
+              "Art",
+              "Books",
+              "Buildings",
+              "Cinema",
+              "Culture",
+              "Design",
+              "Education",
+              "Fonts",
+              "Graphics",
+              "History",
+              "Journalism",
+              "Landscape",
+              "Life",
+              "Literature",
+              "Media",
+              "Music",
+              "Nature",
+              "Packaging",
+              "Personal",
+              "Photography",
+              "Publishing",
+              "Retail",
+              "Science",
+              "Signage",
+              "Transport",
+              "Travel",
+              "TV",
+              "Work",
+            ],
+          required: false,
+          hint: "By adding tags the posts can be listed together under that tag. You will need to enable the tags page (by turning on show on menu for the tags page.",
+        }
 
   - name: "pages"
     label: "Pages" # Used in the UI
@@ -53,16 +109,33 @@ collections:
     editor:
       preview: false
     fields: # The fields for each document, usually in front matter
-      - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Subtitle", name: "subtitle", widget: "string", required: false, hint: "This will show under the heading for the page."}
-      - {label: "Permalink", name: "permalink", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Show on the menu?", name: "show", widget: "boolean", default: false, hint: "If this is switched on, the link will show on the menubar to the right."}
-      - {label: "Featured Image", name: "header_feature_image", widget: "image", required: false}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+      - { label: "Title", name: "title", widget: "string" }
+      - {
+          label: "Subtitle",
+          name: "subtitle",
+          widget: "string",
+          required: false,
+          hint: "This will show under the heading for the page.",
+        }
+      - { label: "Permalink", name: "permalink", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - {
+          label: "Show on the menu?",
+          name: "show",
+          widget: "boolean",
+          default: false,
+          hint: "If this is switched on, the link will show on the menubar to the right.",
+        }
+      - {
+          label: "Featured Image",
+          name: "header_feature_image",
+          widget: "image",
+          required: false,
+        }
+      - { label: "Body", name: "body", widget: "markdown" }
 
-# uncomment out the following collection block if you want to use a home page rather than the blog on the home page. This needs to be done after you have changed the settings in the _config.yml file in the root of your project. DO NOT UNCOMMENT this paragraph!
+  # uncomment out the following collection block if you want to use a home page rather than the blog on the home page. This needs to be done after you have changed the settings in the _config.yml file in the root of your project. DO NOT UNCOMMENT this paragraph!
 
   # - name: "homepageitems"
   #   label: "Home Page Blocks" # Used in the UI
@@ -196,13 +269,32 @@ collections:
           - label: "Font to use in the body text (paragraphs etc)"
             name: "body"
             widget: "select"
-            options: ["Source Serif Pro", "Source Sans Pro", "Roboto Slab", "Josefin Sans", "Alegreya", "Montserrat", "Libre Baskerville"]
+            options:
+              [
+                "Source Serif Pro",
+                "Source Sans Pro",
+                "Roboto Slab",
+                "Josefin Sans",
+                "Alegreya",
+                "Montserrat",
+                "Libre Baskerville",
+              ]
             default: ["Source Serif Pro"]
             hint: "This would normally be a sans serif or serif but not slab serif."
           - label: "Font to use in the headings"
             name: "headings"
             widget: "select"
-            options: ["Source Serif Pro", "Source Sans Pro", "Roboto Slab", "Josefin Sans", "Alegreya", "Bevan", "Montserrat", "Libre Baskerville"]
+            options:
+              [
+                "Source Serif Pro",
+                "Source Sans Pro",
+                "Roboto Slab",
+                "Josefin Sans",
+                "Alegreya",
+                "Bevan",
+                "Montserrat",
+                "Libre Baskerville",
+              ]
             default: ["Roboto Slab"]
             hint: "You can choose any of these for the headings; Bevan is a display font."
 
@@ -260,7 +352,7 @@ collections:
           - label: "You can add your own Email Adress here"
             name: "email_address"
             widget: "string"
-            pattern: ['@', 'Must be a valid email address']
+            pattern: ["@", "Must be a valid email address"]
             required: false
           - label: "GitHub"
             name: "github"
